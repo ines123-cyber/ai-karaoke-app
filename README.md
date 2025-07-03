@@ -122,3 +122,10 @@ This app requires a Genius API key to fetch song lyrics.
 - Console must support ANSI escape codes, as it is essential for displaying coloured lyrics.
 
 ---
+
+## License
+
+Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).  
+All rights reserved.
+
+---
