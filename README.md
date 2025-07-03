@@ -125,7 +125,7 @@ This app requires a Genius API key to fetch song lyrics.
 
 ## Author
 
-Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).
+Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).  
 All rights reserved.
 
 ---
