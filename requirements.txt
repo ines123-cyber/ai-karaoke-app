@@ -1,0 +1,4 @@
+lyricsgenius==3.4.4
+yt-dlp==2025.3.31
+pygame==2.5.2
+mutagen==1.47.0

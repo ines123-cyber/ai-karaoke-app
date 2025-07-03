@@ -1,0 +1,16 @@
+# Audio and build artifacts
+**/song.*
+/build/
+/dist/
+/__pycache__/
+**/*.spec
+
+# Environment file
+.env
+
+# Virtual environment
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
