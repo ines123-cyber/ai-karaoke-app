@@ -75,10 +75,10 @@ This app requires a Genius API key to fetch song lyrics.
 3. Click on "Generate Access Token", then copy the access token.
 4. In the project folder:
     - Rename the `.env.example` file to `.env`
-    - Open `.env` and replace 'paste_your_actual_access_token_here' with your actual Genius API key:
+    - In your `.env` file, replace 'paste_your_genius_api_key_here' with your actual Genius API key:
 
       ```env
-      GENIUS_ACCESS_TOKEN=paste_your_actual_access_token_here
+      GENIUS_ACCESS_TOKEN=paste_your_genius_api_key_here
       ```
 
 5. You're now ready to run the app.
