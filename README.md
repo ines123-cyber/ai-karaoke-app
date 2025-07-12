@@ -29,6 +29,7 @@ This project demonstrates a basic level of AI integration through:
 - Language: **Python**
 - [Genius](https://genius.com/) API
 - **yt-dlp**
+- **FFmpeg** (`ffmpeg.exe`, `ffplay.exe`, `ffprobe.exe`) used by `yt-dlp` to convert downloaded audio to `.mp3`
 - **mutagen** (for getting MP3 duration)
 - **pygame** (for audio playback)
 - Standard Libraries: `os`, `time`, `threading`
@@ -37,7 +38,7 @@ This project demonstrates a basic level of AI integration through:
 
 ## Installation
 
-This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to handle large files.
+This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to include FFmpeg executables (`ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe`) in the `ffmpeg/` folder. These are required by `yt-dlp` to convert downloaded YouTube audio into `.mp3` format.
 You must install Git LFS before cloning this repo to run the app locally.
 
 1. **Install Git LFS:**
@@ -83,7 +84,7 @@ This app requires a Genius API key to fetch song lyrics.
 
 5. You're now ready to run the app.
 
-> **Note**: Never share your `.env` file publically. It's already ignored in `.gitignore` for security reasons.
+> **Note**: Never share your `.env` file publicly. It's already ignored in `.gitignore` for security reasons.
 
 ---
 
