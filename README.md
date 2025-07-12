@@ -38,7 +38,7 @@ This project demonstrates a basic level of AI integration through:
 
 ## Installation
 
-This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to include FFmpeg executables (`ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe`) in the `ffmpeg/` folder. These are required by `yt-dlp` to convert downloaded YouTube audio into `.mp3` format.
+This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to include FFmpeg executables (`ffmpeg.exe`, `ffplay.exe`, and `ffprobe.exe`) in the `ffmpeg/bin` folder. These are required by `yt-dlp` to convert downloaded YouTube audio into `.mp3` format.
 You must install Git LFS before cloning this repo to run the app locally.
 
 1. **Install Git LFS:**
