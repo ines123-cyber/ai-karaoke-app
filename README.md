@@ -124,6 +124,13 @@ This app requires a Genius API key to fetch song lyrics.
 
 ---
 
+## Contributing
+
+This project was meant to be a team project (team of 2) and is **not open to public contributions**.  
+Only contributions from my teammate, [Amandeep Aman](https://github.com/AMANDEEP-sudo), will be accepted.
+
+---
+
 ## Author
 
 Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).  
